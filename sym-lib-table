@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "guille_library")(type "KiCad")(uri "${KIPRJMOD}/symbols/guille_library.kicad_sym")(options "")(descr ""))
+  (lib (name "guille_3rdparty")(type "KiCad")(uri "${KIPRJMOD}/symbols/guille_3rdparty.kicad_sym")(options "")(descr ""))
+)
