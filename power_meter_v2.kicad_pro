@@ -414,6 +414,10 @@
     [
       "35e873c8-b7c7-4c30-ab4d-283d57d05bae",
       ""
+    ],
+    [
+      "e6ab6c04-ae00-46f6-960e-4c7961a32426",
+      "power_measurement"
     ]
   ],
   "text_variables": {}
